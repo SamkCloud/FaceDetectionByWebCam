@@ -1,8 +1,9 @@
 # FaceDetectionByWebCam
 ## A python Script which detection human Face 
- so this Includes a harrcasscade file (.xml)
- and a Python written script (.py)
- **library used = OpenCV
+so this Includes a harrcasscade file (.xml).
+**Source** from which you can dowdownload multiple Harcasscade files: https://www.kaggle.com/gpreda/haar-cascades-for-face-detection
+and a Python written script (.py)
+**library used = OpenCV
  
  To run this script 
  1. Firstly you need to download it and unzip in a specific folder.
